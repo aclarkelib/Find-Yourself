@@ -1,24 +1,13 @@
-# Find-Yourself
-This year our graduate recruitment campaign has been built using code. 
+# Find-Yourself Entry
+For my entry I have built an application which allows you to scramble images using 
+words. You can also descramble your scrambled images.
 
-Now we want to see what you can do with what we've made. 
+# Use
+To scramble the image simply click on the "Scramble Image" button on the main menu.
+Then type in your desired word and press the green "Scramble Image" button or press
+the enter key.
 
-Have a play and then post your entries here before **Wednesday 9th October** to be in with a chance to win an **Amazon Show**.
-
-# How to take part
-To enter you can create a branch and submit your entry.
-
-You can use the code to make an imaginative reworking of the campaign creative, ensuring it resolves to the Find yourself artwork (6-sheet-blank.jpg) or (336x280-static.jpg)
-
-It would also be great if you could post the running code below your outcome of the code so it can be displayed on the digital AdShel screens (6-sheets) and display adverts (336x280). Bringing your code to life!
-
-# Software sketchbook
-We’ve used the open-source graphical library Processing for this project.
-
-You can download Processing here - https://www.processing.org/download/.
-
-# Processing
-Examples of how Processing is used can be found here - https://github.com/ThomasLengeling/Processing-Sketch?files=1
-
-# Examples from Glenn
-And here is a link to Glenn's blog where you can see examples of how he works in Processing - www.butterfly.ie/liberty
+To descramble an image click on the "Descramble Image" button on the main menu.
+Then select an image from the numbers in the top left corner. Guess the word that
+was used to scramble the image and then ress the green "Scramble Image" button or 
+press the enter key to try to descramble the image.
