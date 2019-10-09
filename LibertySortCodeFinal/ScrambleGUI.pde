@@ -53,11 +53,7 @@ public void loadScrambleGUI() {
   imageSizeHeight = (height * 3)/5;
   imagePosX = (width/2) - (imageSizeWidth/2);
   imagePosY = height/7;
-<<<<<<< HEAD
   img = loadImage(sketchPath() + "/Images/endframecrop.jpg");
-=======
-  img = loadImage("Images/endframecrop.jpg");
->>>>>>> 750cdd9df694bda2fe83451516cf84b878b6f1e8
   img.resize(imageSizeWidth, imageSizeHeight);
   image(img, imagePosX, imagePosY);
   loaded = true;
